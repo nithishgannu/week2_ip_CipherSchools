@@ -1,0 +1,11 @@
+.h1{
+    border: none;
+    background-color: lightgray;
+    text-align: center;
+}
+article{
+    border: 1px solid black;
+}
+body{
+    font-family: "poppins",sans-serif;
+}
